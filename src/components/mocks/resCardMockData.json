@@ -1,0 +1,12 @@
+{
+    "id": "123",
+    "name": "Pizza",
+    "image": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/e237ae47-26ff-4606-b36f-9473d002997e_71ff4cde-6523-4342-a9a3-9f11283210d0.jpg_compressed",
+    "locality": "Murlipura",
+    "areaName": "Raja Park",
+    "cuisines": [
+        "Pizzas", "burger"
+    ],
+    "rating":4.5,
+    "price": 120
+}
